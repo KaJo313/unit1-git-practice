@@ -99,6 +99,9 @@ pwd
 touch menu.txt
 ls
 git status
+git add .
+git commit -m 'starting a menu'
+git push
 
 ### Step 7
 *** DO NOT RECORD STEP 7 ***
